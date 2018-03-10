@@ -1,0 +1,133 @@
+Resoconto pacchetto
+
+-----------------------------------------------------------------------------
+Documento: 
+Nome: tav01_biografia.ai
+Metodo colore: Colore CMYK
+Profilo colore:  Coated FOGRA39 (ISO 12647-2:2004)
+Unitˆ righelli: millimetri
+Dimensioni tavola disegno: 419,9996 mm x 297,0001 mm
+Mostra immagini con metodo contorno: NO
+Evidenzia font sostituiti: NO
+Evidenzia glifi sostituiti: NO
+Mantieni testo modificabile
+Simula carta colorata: NO
+
+-----------------------------------------------------------------------------
+Oggetti in tinta piatta: 
+
+-----------------------------------------------------------------------------
+Font mancanti:NESSUNO
+
+-----------------------------------------------------------------------------
+Font protetti non inclusi nel pacchetto:
+Quatro Regular (font Typekit)
+Quatro Regular Italic (font Typekit)
+Quatro SemiBold (font Typekit)
+Quatro SemiBold Italic (font Typekit)
+Quatro Bold (font Typekit)
+
+-----------------------------------------------------------------------------
+Font: 
+Antonio Regular (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Font incorporati:
+NESSUNO
+
+-----------------------------------------------------------------------------
+Collegamenti mancanti:
+NESSUNO
+
+-----------------------------------------------------------------------------
+Immagini collegate: 
+
+/Utenti/Alessandra/Scrivania/iw-fornasetti-4-665x685.jpg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 1334K, 665 per 685 pixel
+Dimensioni: 135,41 per 139,482 punti 
+Risoluzione: 353,594 per 353,594 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/Piero-Fornasetti-Interior-Designer-ritratto-credits-Franco-Petazzi_1.jpg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 3491K, 900 per 1324 pixel
+Dimensioni: 175,405 per 258,041 punti 
+Risoluzione: 369,43 per 369,43 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/iw-fornasetti-19-665x306.jpg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 596K, 665 per 306 pixel
+Dimensioni: 200,433 per 92,229 punti 
+Risoluzione: 238,883 per 238,883 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/03_BV_Brera_print-kzG--650x485@IlSole24Ore-Web.jpg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 922K, 649 per 485 pixel
+Dimensioni: 123,908 per 92,597 punti 
+Risoluzione: 377,118 per 377,118 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/Schermata 2018-03-06 alle 17.04.10
+Tipo: CMYK trasparente
+Bit per pixel: 40
+Canali: 5
+Dimensione: 1514K, 785 per 395 pixel
+Dimensioni: 272,682 per 137,209 punti 
+Risoluzione: 207,274 per 207,274 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/2117543_z.jpeg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 6591K, 1500 per 1500 pixel
+Dimensioni: 87,721 per 87,721 punti 
+Risoluzione: 1231,17 per 1231,17 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/FORNASETTI3.jpg.gif
+Tipo: CMYK
+Bit per pixel: 32
+Canali: 4
+Dimensione: 1586K, 564 per 720 pixel
+Dimensioni: 81,378 per 103,886 punti 
+Risoluzione: 499,007 per 499,007 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/W1A1616-660x440.jpg
+Tipo: RGB
+Bit per pixel: 24
+Canali: 3
+Dimensione: 850K, 660 per 440 pixel
+Dimensioni: 157,979 per 105,319 punti 
+Risoluzione: 300,799 per 300,799 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/Schermata 2018-03-06 alle 16.56.35
+Tipo: CMYK trasparente
+Bit per pixel: 40
+Canali: 5
+Dimensione: 895K, 556 per 330 pixel
+Dimensioni: 139,166 per 82,599 punti 
+Risoluzione: 287,656 per 287,656 pixel per pollice
+
+
+/Utenti/Alessandra/Scrivania/Schermata 2018-03-06 alle 16.34.26
+Tipo: CMYK trasparente
+Bit per pixel: 40
+Canali: 5
+Dimensione: 1174K, 442 per 544 pixel
+Dimensioni: 79,578 per 97,942 punti 
+Risoluzione: 399,909 per 399,909 pixel per pollice
