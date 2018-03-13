@@ -1,0 +1,99 @@
+%!Adobe-FontList 1.19
+%Locale:0x410
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+FullName:Antonio Regular
+MenuName:Antonio
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto nuovo\Document fonts\Antonio-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47944
+FileModTime:1520767302
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,4,Antonio Regular
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Medium
+FamilyName:Franklin Gothic Medium
+StyleName:Regular
+FullName:Franklin Gothic Medium
+MenuName:Franklin Gothic Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto nuovo\Document fonts\framd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133632
+FileModTime:1506688895
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Franklin Gothic Medium
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto nuovo\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1510732880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TwCenMT-Condensed
+FamilyName:Tw Cen MT Condensed
+StyleName:Regular
+FullName:Tw Cen MT Condensed
+MenuName:Tw Cen MT Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto nuovo\Document fonts\TCCM____.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66804
+FileModTime:1478182381
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Tw Cen MT Condensed
+NameArray:0,Win,1,Tw Cen MT Condensed
+%EndFont
+
