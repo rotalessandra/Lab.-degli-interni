@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.19
-%Locale:0x410
+%Locale:0x409
 
 %BeginFont
 Handler:DirectoryHandler
@@ -7,19 +7,19 @@ FontType:TrueType
 FontName:Antonio-Regular
 FamilyName:Antonio
 StyleName:Regular
-FullName:Antonio Regular
 MenuName:Antonio
 StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Antonio Regular
 WritingScript:Roman
-OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto definitivo\Document fonts\Antonio-Regular.ttf
+OutlineFileName:\Antonio-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:47944
-FileModTime:1520767302
-WeightClass:400
-WidthClass:1
-AngleClass:0
+FileModTime:1520967233
 NameArray:0,Mac,4,Antonio Regular
 NameArray:0,Win,1,Antonio
 NameArray:0,Win,16,Antonio
@@ -31,19 +31,19 @@ FontType:TrueType
 FontName:FranklinGothic-Medium
 FamilyName:Franklin Gothic Medium
 StyleName:Regular
-FullName:Franklin Gothic Medium
 MenuName:Franklin Gothic Medium
 StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Medium
 WritingScript:Roman
-OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto definitivo\Document fonts\framd.ttf
+OutlineFileName:\framd.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:133632
-FileModTime:1506688895
-WeightClass:400
-WidthClass:5
-AngleClass:0
+FileModTime:1520967233
 NameArray:0,Mac,4,Franklin Gothic Medium
 NameArray:0,Win,1,Franklin Gothic Medium
 %EndFont
@@ -54,21 +54,21 @@ FontType:Type1
 FontName:MinionPro-Regular
 FamilyName:Minion Pro
 StyleName:Regular
-FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto definitivo\Document fonts\MinionPro-Regular.otf
+OutlineFileName:\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1510732880
-WeightClass:400
-WidthClass:5
-AngleClass:0
+FileModTime:1520967233
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -80,19 +80,19 @@ FontType:TrueType
 FontName:TwCenMT-Condensed
 FamilyName:Tw Cen MT Condensed
 StyleName:Regular
-FullName:Tw Cen MT Condensed
 MenuName:Tw Cen MT Condensed
 StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Condensed
 WritingScript:Roman
-OutlineFileName:C:\Users\cri__\Desktop\fornasetti\Cartella contesto definitivo\Document fonts\TCCM____.TTF
+OutlineFileName:\TCCM____.TTF
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:66804
-FileModTime:1478182381
-WeightClass:400
-WidthClass:5
-AngleClass:0
+FileModTime:1520967233
 NameArray:0,Mac,4,Tw Cen MT Condensed
 NameArray:0,Win,1,Tw Cen MT Condensed
 %EndFont
