@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Bold
+FamilyName:Antonio
+StyleName:Bold
+MenuName:Antonio
+StyleBits:2
+WeightClass:700
+WidthClass:1
+AngleClass:0
+FullName:Antonio Bold
+WritingScript:Roman
+OutlineFileName:\Antonio-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:48508
+FileModTime:1373982838
+NameArray:0,Mac,4,Antonio Bold
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+MenuName:Antonio
+StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Antonio Regular
+WritingScript:Roman
+OutlineFileName:\Antonio-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:47944
+FileModTime:1373982838
+NameArray:0,Mac,4,Antonio Regular
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+

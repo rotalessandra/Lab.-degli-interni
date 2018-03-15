@@ -1,0 +1,115 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+MenuName:Antonio
+StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Antonio Regular
+WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:\Antonio-Regular.ttf
+=======
+OutlineFileName:C:\Users\cri__\Desktop\Lab.-degli-interni\fase 1\tav03_definitiva\Document fonts\Antonio-Regular.ttf
+>>>>>>> 5bbd58d1c63527276ac67577b5f279c9af24b022
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47944
+FileModTime:1520967233
+NameArray:0,Mac,4,Antonio Regular
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Medium
+FamilyName:Franklin Gothic Medium
+StyleName:Regular
+MenuName:Franklin Gothic Medium
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Medium
+WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:\framd.ttf
+=======
+OutlineFileName:C:\Users\cri__\Desktop\Lab.-degli-interni\fase 1\tav03_definitiva\Document fonts\framd.ttf
+>>>>>>> 5bbd58d1c63527276ac67577b5f279c9af24b022
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133632
+FileModTime:1520967233
+NameArray:0,Mac,4,Franklin Gothic Medium
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:\MinionPro-Regular.otf
+=======
+OutlineFileName:C:\Users\cri__\Desktop\Lab.-degli-interni\fase 1\tav03_definitiva\Document fonts\MinionPro-Regular.otf
+>>>>>>> 5bbd58d1c63527276ac67577b5f279c9af24b022
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1520967233
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TwCenMT-Condensed
+FamilyName:Tw Cen MT Condensed
+StyleName:Regular
+MenuName:Tw Cen MT Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Condensed
+WritingScript:Roman
+<<<<<<< HEAD
+OutlineFileName:\TCCM____.TTF
+=======
+OutlineFileName:C:\Users\cri__\Desktop\Lab.-degli-interni\fase 1\tav03_definitiva\Document fonts\TCCM____.TTF
+>>>>>>> 5bbd58d1c63527276ac67577b5f279c9af24b022
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66804
+FileModTime:1520967233
+NameArray:0,Mac,4,Tw Cen MT Condensed
+NameArray:0,Win,1,Tw Cen MT Condensed
+%EndFont
+
